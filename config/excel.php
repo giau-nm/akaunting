@@ -31,7 +31,7 @@ return array(
         */
         'settings' => [
 
-            'memoryCacheSize' => '32MB',
+            'memoryCacheSize' => '64MB',
             'cacheTime'       => 600
 
         ],
@@ -58,15 +58,15 @@ return array(
     ],
 
     'properties' => [
-        'creator'        => 'Akaunting',
-        'lastModifiedBy' => 'Akaunting',
+        'creator'        => 'Manh Giau',
+        'lastModifiedBy' => 'Manh Giau',
         'title'          => 'Spreadsheet',
         'description'    => 'Default spreadsheet export',
         'subject'        => 'Spreadsheet export',
         'keywords'       => 'akaunting, excel, export',
         'category'       => 'Excel',
-        'manager'        => 'Akaunting',
-        'company'        => 'Akaunting',
+        'manager'        => 'Manh Giau',
+        'company'        => 'Manh Giau',
     ],
 
     /*
@@ -106,7 +106,7 @@ return array(
     |
     */
 
-    'creator'    => 'Akaunting',
+    'creator'    => 'Manh Giau',
 
     'csv'        => [
         /*

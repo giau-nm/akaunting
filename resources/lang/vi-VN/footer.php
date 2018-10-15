@@ -3,7 +3,7 @@
 return [
 
     'version'               => 'Phiên bản',
-    'powered'               => 'Powered By Akaunting',
+    'powered'               => 'Powered By Mạnh Giầu',
     'software'              => 'Phần mềm kế toán miễn phí',
 
 ];

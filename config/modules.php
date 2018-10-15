@@ -137,8 +137,8 @@ return [
     'composer' => [
         'vendor' => 'akaunting',
         'author' => [
-            'name' => 'Akaunting',
-            'email' => 'info@akaunting.com',
+            'name' => 'Manh Giau',
+            'email' => 'giaunm.56@gmail.com',
         ],
     ],
 
